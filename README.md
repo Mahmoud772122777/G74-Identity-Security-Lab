@@ -8,7 +8,7 @@
 
 ## 1. Overview
 
-This is a small, browser-based educational simulation demonstrating why account recovery and MFA-reset requests should be verified before access is changed. It highlights three defensive checks:
+This browser-based educational simulation demonstrates why account recovery and MFA-reset requests should be verified before access is changed. It highlights three defensive checks:
 
 1. Callback using a trusted contact number already on record.
 2. Independent identity proofing.
@@ -23,10 +23,10 @@ The demo is inspired by identity-based social-engineering risks discussed in the
 
 ## 3. How to run
 
-### Option A — simplest
+### Option A — Open in a browser
 1. Extract the ZIP file.
 2. Open `index.html` in a browser.
-3. Tick the verification controls and select **Evaluate request**.
+3. Select the verification controls and choose **Evaluate request**.
 4. Observe the decision and verification score.
 5. Select **Reset simulation** to try again.
 
@@ -50,26 +50,9 @@ The demo is inspired by identity-based social-engineering risks discussed in the
 
 This is a simplified training model, not a real authentication or access-management system.
 
-## 6. GitHub repository link
+## 6. GitHub repository
 
-**Add your GitHub repository URL here after creating and pushing the project**, for example:
-`https://github.com/Mahmoud772122777/G74-Identity-Security-Lab`
-
-To publish:
-1. Create a new empty repository on GitHub named `G74-Identity-Security-Lab`.
-2. Open a terminal in this extracted folder.
-3. Run the following commands, replacing the URL with your repository URL:
-
-```bash
-git init
-git add .
-git commit -m "Add identity security training demo"
-git branch -M main
-git remote add origin https://github.com/Mahmoud772122777/G74-Identity-Security-Lab
-git push -u origin main
-```
-
-After pushing, replace the placeholder above with the actual repository URL and include the updated README in your final ZIP.
+[G74 Identity Security Lab](https://github.com/Mahmoud772122777/G74-Identity-Security-Lab)
 
 ## 7. Scope and safety
 
