@@ -53,7 +53,7 @@ This is a simplified training model, not a real authentication or access-managem
 ## 6. GitHub repository link
 
 **Add your GitHub repository URL here after creating and pushing the project**, for example:
-`https://github.com/YOUR-USERNAME/G74-Identity-Security-Lab`
+`https://github.com/Mahmoud772122777/G74-Identity-Security-Lab`
 
 To publish:
 1. Create a new empty repository on GitHub named `G74-Identity-Security-Lab`.
@@ -65,7 +65,7 @@ git init
 git add .
 git commit -m "Add identity security training demo"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/G74-Identity-Security-Lab.git
+git remote add origin https://github.com/Mahmoud772122777/G74-Identity-Security-Lab
 git push -u origin main
 ```
 
